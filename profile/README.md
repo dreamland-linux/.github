@@ -1,2 +1,2 @@
-# Welcome to Dreamland Linux!
-Dreamland Linux is a linux distro based on ALCI, based on Arch Linux.
+# NOW REPURPOSED
+josiah's repositories but they're all for linux because yeah
